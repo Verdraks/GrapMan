@@ -15,5 +15,8 @@
 			"Name": "TimelineEverywhere",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
